@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS — Autonomous AI Operating System",
+  "description": "Autonomous multiplatform personal AI operating system featuring the canonical 9-stage CognitiveLoop, persistent hierarchical memory, multi-provider model routing, tools sandbox, and real-time execution engine.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
